@@ -1,4 +1,4 @@
-# TwoD_Danger_Dungeon
+# TwoD: Danger&Dungeon
 
 This is my first experience in developing a 2D platformer.
 
